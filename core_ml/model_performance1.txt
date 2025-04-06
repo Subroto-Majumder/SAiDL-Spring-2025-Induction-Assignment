@@ -1,0 +1,29 @@
+python3 robust.py
+
+Training with symmetric noise ratio: 0.2
+CrossEntropy Accuracy: 0.5243
+FocalLoss Accuracy: 0.4959
+Normalized CrossEntropy Accuracy: 0.4747
+Normalized FocalLoss Accuracy: 0.3770
+APL Accuracy: 0.6684
+
+Training with symmetric noise ratio: 0.4
+CrossEntropy Accuracy: 0.3724
+FocalLoss Accuracy: 0.3809
+Normalized CrossEntropy Accuracy: 0.3398
+Normalized FocalLoss Accuracy: 0.2848
+APL Accuracy: 0.6235
+
+Training with symmetric noise ratio: 0.6
+CrossEntropy Accuracy: 0.2361
+FocalLoss Accuracy: 0.2439
+Normalized CrossEntropy Accuracy: 0.1984
+Normalized FocalLoss Accuracy: 0.2017
+APL Accuracy: 0.5363
+
+Training with symmetric noise ratio: 0.8
+CrossEntropy Accuracy: 0.1339
+FocalLoss Accuracy: 0.1378
+Normalized CrossEntropy Accuracy: 0.1380
+Normalized FocalLoss Accuracy: 0.1430
+APL Accuracy: 0.1000
